@@ -1,4 +1,3 @@
-const mongoose = require('mongoose');
 const Postcode = require('./schema');
 const MongoClient = require('mongodb').MongoClient;
 const url = 'mongodb://localhost:27017';
